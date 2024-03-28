@@ -1,2 +1,2 @@
 day la file b1.txt
-thuoc branch: b1 ma thoi
+thuoc branch: b1 va main
