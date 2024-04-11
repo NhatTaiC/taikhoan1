@@ -1,0 +1,6 @@
+test12
+<<<<<<< HEAD
+koh
+=======
+koh123
+>>>>>>> origin/main
