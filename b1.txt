@@ -1,2 +1,6 @@
 day la file b1.txt
+<<<<<<< HEAD
 thuoc branch: b1 ma thoi
+=======
+thuoc branch: b1 va main
+>>>>>>> main
