@@ -1,0 +1,265 @@
+[33mcommit 3333396556e88b5209223d5ba120549735796379[m[33m ([m[1;36mHEAD[m[33m -> [m[1;32mmain[m[33m, [m[1;31morigin/main[m[33m, [m[1;31morigin/HEAD[m[33m)[m
+Author: NhatTaiC <nhattai0501@gmail.com>
+Date:   Fri Apr 19 22:57:55 2024 +0700
+
+    finish-commit
+
+[33mcommit 9f7f40e81d96fb890f8d3cb157f44aab4b18b1ab[m
+Author: NhatTaiC <nhattai0501@gmail.com>
+Date:   Fri Apr 12 10:21:03 2024 +0700
+
+    main
+
+[33mcommit 831337f06aa2591adf5cc8f4b871f31974a66c62[m
+Merge: e8a93fb 5e987c5
+Author: NhatTaiC <nhattai0501@gmail.com>
+Date:   Fri Apr 12 10:17:12 2024 +0700
+
+    Merge remote-tracking branch 'origin/main'
+    
+    # Conflicts:
+    #       aasd3213.txt
+
+[33mcommit 5e987c5474d4593bd3a256fe60abf2268dd5243e[m
+Author: Koh01 <161793690+NhatTaiC@users.noreply.github.com>
+Date:   Fri Apr 12 10:15:22 2024 +0700
+
+    Update aasd3213.txt
+
+[33mcommit e8a93fbece7ffccf4f7be31d3602482ceb6e7410[m
+Author: NhatTaiC <nhattai0501@gmail.com>
+Date:   Fri Apr 12 10:14:53 2024 +0700
+
+    asdasd
+
+[33mcommit 41db7925baff1a1fcf675e5b395e2371e4f9df27[m
+Author: NhatTaiC <nhattai0501@gmail.com>
+Date:   Fri Apr 12 09:23:02 2024 +0700
+
+    asdasd
+
+[33mcommit 2d1c4b129983339361d0d47ae54e20ef2d8de746[m
+Author: NhatTaiC <nhattai0501@gmail.com>
+Date:   Fri Apr 12 00:17:01 2024 +0700
+
+    asd
+
+[33mcommit 2f5107fab33688f9d178fc542cace223085f6236[m
+Author: NhatTaiC <nhattai0501@gmail.com>
+Date:   Fri Apr 12 00:12:48 2024 +0700
+
+    main
+
+[33mcommit 1a79b780ac3dfefed3559e1f237df74ea936f4b6[m
+Merge: be83452 1bf1535
+Author: NhatTaiC <nhattai0501@gmail.com>
+Date:   Fri Apr 12 00:11:15 2024 +0700
+
+    Merge branch 'b1'
+
+[33mcommit 1bf1535e721291a328a4fced26c9e8dacfaf9cab[m
+Author: NhatTaiC <nhattai0501@gmail.com>
+Date:   Fri Apr 12 00:09:11 2024 +0700
+
+    b1
+
+[33mcommit d0b5ff5d54768c7f0806939388ac7d361cf8c4f2[m
+Merge: 9940500 be83452
+Author: NhatTaiC <nhattai0501@gmail.com>
+Date:   Fri Apr 12 00:08:14 2024 +0700
+
+    Merge branch 'main' into b1
+
+[33mcommit be834524aceb94509f779ab19f0d5f32b0fd9f53[m
+Merge: 0a74657 09e8e13
+Author: NhatTaiC <nhattai0501@gmail.com>
+Date:   Fri Apr 12 00:06:44 2024 +0700
+
+    Merge remote-tracking branch 'origin/main'
+    
+    # Conflicts:
+    #       pull-conflict.txt
+
+[33mcommit 09e8e13f002b71f02a895a4d227bfdce5192fe79[m
+Author: Flint <162786900+flintlookwood@users.noreply.github.com>
+Date:   Fri Apr 12 00:05:24 2024 +0700
+
+    flint
+
+[33mcommit 0a746576628283d0110ee27c7250f73123c13302[m
+Author: NhatTaiC <nhattai0501@gmail.com>
+Date:   Fri Apr 12 00:04:44 2024 +0700
+
+    koh
+
+[33mcommit 32e3c3569ea285dca01ea3e4ea8a93089dd8eb4f[m
+Author: NhatTaiC <nhattai0501@gmail.com>
+Date:   Fri Apr 12 00:04:22 2024 +0700
+
+    koh
+
+[33mcommit 87423318f51a6178176f19f072aab16d8345c69a[m
+Author: flintlookwood <flintlookwood0501@gmail.com>
+Date:   Fri Apr 12 00:02:57 2024 +0700
+
+    flint
+
+[33mcommit 4233dc74cba70d4ee59fdd0270be553288595920[m
+Author: NhatTaiC <nhattai0501@gmail.com>
+Date:   Thu Apr 11 23:57:32 2024 +0700
+
+    test12
+
+[33mcommit b883a623adb9098b8c22756cab0371fce0be0f9a[m
+Author: NhatTaiC <nhattai0501@gmail.com>
+Date:   Thu Apr 11 23:57:01 2024 +0700
+
+    test1
+
+[33mcommit 6564520b4fc6aaca73f577ae849d0fe571917cfa[m
+Author: NhatTaiC <nhattai0501@gmail.com>
+Date:   Sun Mar 31 21:49:18 2024 +0700
+
+    asd
+
+[33mcommit 6533c73deaf32121bcd0ba6254c6d9ed070d34be[m
+Author: NhatTaiC <nhattai0501@gmail.com>
+Date:   Fri Mar 29 10:08:48 2024 +0700
+
+    as
+
+[33mcommit 994050019b8c9f9889aa165b1bda89b86c1116f7[m
+Merge: 41a6356 8c88956
+Author: NhatTaiC <nhattai0501@gmail.com>
+Date:   Fri Mar 29 01:05:17 2024 +0700
+
+    Merge branch 'main' into b1
+    
+    # Conflicts:
+    #       week1.txt
+
+[33mcommit 41a63561887972bb990d95d2ad5f6bf6b5abe71b[m
+Author: NhatTaiC <nhattai0501@gmail.com>
+Date:   Fri Mar 29 01:03:53 2024 +0700
+
+    w
+
+[33mcommit 8c88956e2685ba6f0a377e8014b9868972207c01[m
+Author: NhatTaiC <nhattai0501@gmail.com>
+Date:   Fri Mar 29 01:03:06 2024 +0700
+
+    d
+
+[33mcommit a3e5fdfb9793357a80746a33644268dadf9b5f2b[m
+Merge: 7355d06 94b5737
+Author: NhatTaiC <nhattai0501@gmail.com>
+Date:   Fri Mar 29 01:02:13 2024 +0700
+
+    Merge branch 'b1'
+
+[33mcommit 94b57370530cb6f8f08932beeddcd55c40b47a89[m
+Author: NhatTaiC <nhattai0501@gmail.com>
+Date:   Fri Mar 29 01:01:42 2024 +0700
+
+    week1
+
+[33mcommit dd81a5f5d853268de75fdce136e2c73c731fe1ce[m
+Merge: cf90dc7 7355d06
+Author: NhatTaiC <nhattai0501@gmail.com>
+Date:   Fri Mar 29 01:00:00 2024 +0700
+
+    Merge branch 'main' into b1
+
+[33mcommit 7355d06804a39848f136750ae68836de1a866377[m
+Author: NhatTaiC <nhattai0501@gmail.com>
+Date:   Fri Mar 29 00:58:41 2024 +0700
+
+    yes
+
+[33mcommit 288192e9c503a0a03ca309c191b4431188d7fd06[m
+Merge: 40ba784 cf90dc7
+Author: NhatTaiC <nhattai0501@gmail.com>
+Date:   Fri Mar 29 00:57:45 2024 +0700
+
+    Merge branch 'b1'
+
+[33mcommit cf90dc79670e9912b9946e0268dc5b8acc6c2a01[m
+Author: NhatTaiC <nhattai0501@gmail.com>
+Date:   Fri Mar 29 00:54:02 2024 +0700
+
+    update message
+
+[33mcommit 16f7a1e15055a16a9d54f8f321c47619ca7c54fc[m
+Merge: 1bbfd0a 40ba784
+Author: NhatTaiC <nhattai0501@gmail.com>
+Date:   Fri Mar 29 00:53:26 2024 +0700
+
+    Merge branch 'main' into b1
+
+[33mcommit 40ba784d94efd94cca4e37dbdd60f2bc196468dd[m
+Author: NhatTaiC <nhattai0501@gmail.com>
+Date:   Fri Mar 29 00:52:55 2024 +0700
+
+    b1
+
+[33mcommit 27968cee74303acd4557783b31c8f467081076df[m
+Merge: c259d5d 1bbfd0a
+Author: NhatTaiC <nhattai0501@gmail.com>
+Date:   Fri Mar 29 00:49:21 2024 +0700
+
+    Merge branch 'b1'
+
+[33mcommit 1bbfd0a54d9d6998b4a81650bccea621d4599536[m
+Author: NhatTaiC <nhattai0501@gmail.com>
+Date:   Fri Mar 29 00:48:35 2024 +0700
+
+    tk3 cua b1
+
+[33mcommit c259d5d6546c23e7b8a342f78d64de1042526969[m
+Merge: de420fd 37eaa67
+Author: NhatTaiC <nhattai0501@gmail.com>
+Date:   Fri Mar 29 00:46:46 2024 +0700
+
+    Merge branch 'b1'
+
+[33mcommit de420fd24b8d176fcb3b4155879587a7cf925486[m
+Author: NhatTaiC <nhattai0501@gmail.com>
+Date:   Fri Mar 29 00:45:44 2024 +0700
+
+    tk3
+
+[33mcommit 37eaa6787e6d5911d6ef4b61686cd362dac45c39[m
+Author: NhatTaiC <nhattai0501@gmail.com>
+Date:   Fri Mar 29 00:45:13 2024 +0700
+
+    tk3.txt
+
+[33mcommit ffba29412a578acdf3cb2f0cfc9dbe79ad4395ae[m
+Author: NhatTaiC <nhattai0501@gmail.com>
+Date:   Fri Mar 29 00:37:38 2024 +0700
+
+    tk3
+
+[33mcommit e3ab24d10133f664eb1379e2f5d07aa8e588b724[m
+Author: NhatTaiC <nhattai0501@gmail.com>
+Date:   Fri Mar 29 00:30:28 2024 +0700
+
+    halo
+
+[33mcommit 042a19d8a26d3e97b5aff4d1a4ed92865ac9d452[m
+Author: NhatTaiC <nhattai0501@gmail.com>
+Date:   Fri Mar 29 00:27:45 2024 +0700
+
+    text.txt
+
+[33mcommit 3549159393e7b36beb6441acdf64eabcdf5e6ac6[m
+Author: NhatTaiC <nhattai0501@gmail.com>
+Date:   Fri Mar 29 00:24:06 2024 +0700
+
+    tk1.txt
+
+[33mcommit 73c9518dd6c2f449e2e9931a85bbafff7859f29e[m
+Author: Koh01 <161793690+NhatTaiC@users.noreply.github.com>
+Date:   Fri Mar 29 00:02:52 2024 +0700
+
+    Initial commit
